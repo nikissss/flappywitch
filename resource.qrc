@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/10899635.png</file>
+        <file>images/315272049_454336400081540_3041457456825348632_n.png</file>
+        <file>images/317011027_659264105845386_675266349166321344_n.png</file>
+        <file>images/background5.png</file>
+        <file>images/background100.png</file>
+        <file>images/pillardown.png</file>
+        <file>images/pillarup.png</file>
+    </qresource>
+</RCC>

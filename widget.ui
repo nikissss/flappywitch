@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>widget</class>
+ <widget class="QDialog" name="widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1305</width>
+    <height>645</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>TAPFLAP</string>
+  </property>
+  <widget class="QPushButton" name="startGameButton">
+   <property name="geometry">
+    <rect>
+     <x>1100</x>
+     <y>580</y>
+     <width>171</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Snap ITC</family>
+    </font>
+   </property>
+   <property name="text">
+    <string>START</string>
+   </property>
+  </widget>
+  <widget class="QGraphicsView" name="graphics">
+   <property name="geometry">
+    <rect>
+     <x>-5</x>
+     <y>1</y>
+     <width>1311</width>
+     <height>651</height>
+    </rect>
+   </property>
+  </widget>
+  <zorder>graphics</zorder>
+  <zorder>startGameButton</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

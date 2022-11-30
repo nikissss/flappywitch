@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/pillarup.png</file>
+        <file>images/pillardown.png</file>
+        <file>images/background100.png</file>
+        <file>images/10899635.png</file>
+        <file>images/315272049_454336400081540_3041457456825348632_n.png</file>
+        <file>images/background5.png</file>
+        <file>images/gameover.png</file>
+        <file>images/gameo.png</file>
+    </qresource>
+</RCC>
